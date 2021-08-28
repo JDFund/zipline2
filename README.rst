@@ -1,6 +1,5 @@
 # zipline2
-
----
+=============
 
 Welcome to zipline2, the trading platform built on top of Quantopian's ziplide.
 _This project is meant to be used for backtesting/paper/live trading with one of the following brokers_:
@@ -9,7 +8,7 @@ _This project is meant to be used for backtesting/paper/live trading with one of
 
 
 # zipline README.rd
----
+=============
 
 
 :target: https://www.zipline.io
