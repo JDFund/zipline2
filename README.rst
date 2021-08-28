@@ -1,4 +1,4 @@
-https://github.com/JDFund/zipline2/blob/master/README.rstzipline2
+zipline2
 =============
 
 Welcome to zipline2, the trading platform built on top of Quantopian's ziplide.
