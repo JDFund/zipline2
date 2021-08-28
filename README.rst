@@ -1,8 +1,21 @@
-.. image:: https://media.quantopian.com/logos/open_source/zipline-logo-03_.png
-    :target: https://www.zipline.io
-    :width: 212px
-    :align: center
-    :alt: Zipline
+# zipline2
+
+---
+
+Welcome to zipline2, the trading platform built on top of Quantopian's ziplide.
+_This project is meant to be used for backtesting/paper/live trading with one of the following brokers_:
+- Ameritrade
+- Oanda
+
+
+# zipline README.rd
+---
+
+
+:target: https://www.zipline.io
+:width: 212px
+:align: center
+:alt: Zipline
 
 =============
 
